@@ -13,7 +13,7 @@ Solution Integrator Experienced - Certified by Ericsson
 Sumário
 
 1 Bem-vindo ao mundo Node.js 1
-[ ] 1.1 O problema das arquiteturas bloqueantes
+[x] 1.1 O problema das arquiteturas bloqueantes
 [ ] 1.2 E assim nasceu o Node.js
 [ ] 1.3 Single-thread
 [ ] 1.4 Event-Loop
